@@ -1,4 +1,4 @@
-import { type XmcpConfig } from 'gbtcp33'
+import { type XmcpConfig } from 'kkj'
 
 const config: XmcpConfig = {
   http: true,
